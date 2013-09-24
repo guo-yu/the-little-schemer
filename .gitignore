@@ -1,0 +1,6 @@
+psd
+demo
+thumb
+*.DS_*
+*.log
+*.sublime*
